@@ -1,0 +1,15 @@
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\bin\Debug\netcoreapp3.1\DynamicLoadingTest.deps.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\bin\Debug\netcoreapp3.1\DynamicLoadingTest.dll
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\bin\Debug\netcoreapp3.1\DynamicLoadingTest.pdb
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.csprojAssemblyReference.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.csproj.CoreCompileInputs.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.AssemblyInfoInputs.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.AssemblyInfo.cs
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.RazorTargetAssemblyInfo.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\staticwebassets\DynamicLoadingTest.StaticWebAssets.Manifest.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\staticwebassets\DynamicLoadingTest.StaticWebAssets.xml
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.dll
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\DynamicLoadingTest\obj\Debug\netcoreapp3.1\DynamicLoadingTest.pdb

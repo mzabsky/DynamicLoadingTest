@@ -1,0 +1,13 @@
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.csproj.CoreCompileInputs.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.AssemblyInfoInputs.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.AssemblyInfo.cs
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\bin\Debug\netcoreapp3.1\Loader.exe
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\bin\Debug\netcoreapp3.1\Loader.deps.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\bin\Debug\netcoreapp3.1\Loader.runtimeconfig.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\bin\Debug\netcoreapp3.1\Loader.runtimeconfig.dev.json
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\bin\Debug\netcoreapp3.1\Loader.dll
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\bin\Debug\netcoreapp3.1\Loader.pdb
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.dll
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.pdb
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.genruntimeconfig.cache
+C:\Users\matej.zabsky\source\repos\DynamicLoadingTest\Loader\obj\Debug\netcoreapp3.1\Loader.csprojAssemblyReference.cache
